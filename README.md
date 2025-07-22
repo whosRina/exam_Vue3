@@ -1,3 +1,4 @@
+本项目关联后端项目：https://github.com/whosRina/exam_go-zero，仅用于学习用途。
 本项目启动准备：
 
 环境部署：
